@@ -1,7 +1,9 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasekva&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-42 Ecola Profile
+### 42 Ecola Profile
+
+---
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jberegon?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
