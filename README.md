@@ -1,15 +1,9 @@
 ## Hi there 👋
 
 ## 42 Ecola Profile
-
----
-
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jberegon?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
 ## Languages and Tools
-
----
-
 ### Tools:
 
 ![Unix](https://img.shields.io/badge/-Unix-5C2D91?style=plastic&logo=unix)
