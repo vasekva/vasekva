@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 42 Ecola Profile
+## 42 Ecole Profile
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jberegon?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
 ## Languages and Tools
