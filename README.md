@@ -6,7 +6,6 @@
 ## Languages and Tools
 ### Tools:
 
-![Image alt](https://github.com/vasekva/vasekva/raw/main/icons/java.png)
 ![Unix](https://img.shields.io/badge/-Unix-5C2D91?style=plastic&logo=unix)
 ![Bash](https://img.shields.io/badge/-Bash-5C2D91?style=plastic&logo=bash)
 ![Maven](https://img.shields.io/badge/-Maven-5C2D91?style=plastic&logo=maven)
@@ -15,6 +14,10 @@
 
 ### Learned the basics:
 
+![C](https://github.com/vasekva/vasekva/raw/main/icons/c.png)
+![C_Plus](https://github.com/vasekva/vasekva/raw/main/icons/c_plus.png)
+![C_Sharp](https://github.com/vasekva/vasekva/raw/main/icons/c_sharp.png)
+![Java](https://github.com/vasekva/vasekva/raw/main/icons/java.png)
 ![C](https://img.shields.io/badge/-C-0066CC?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-CC0000?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-CCCCCF?style=for-the-badge&logo=spring)
