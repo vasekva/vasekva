@@ -6,7 +6,7 @@
 ## Languages and Tools
 ### Tools:
 
-![Image alt](https://github.com/vasekva/vasekva/raw/main/icons/unix.jpg)
+![Image alt](https://github.com/vasekva/vasekva/raw/main/icons/c-sharp.png)
 ![Unix](https://img.shields.io/badge/-Unix-5C2D91?style=plastic&logo=unix)
 ![Bash](https://img.shields.io/badge/-Bash-5C2D91?style=plastic&logo=bash)
 ![Maven](https://img.shields.io/badge/-Maven-5C2D91?style=plastic&logo=maven)
