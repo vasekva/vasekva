@@ -34,7 +34,6 @@
 
 ### Studying now:
 
-![C#](https://github.com/vasekva/vasekva/raw/main/icons/c_sharp.png)
 ![JS](https://github.com/vasekva/vasekva/raw/main/icons/javascript.png)
 ![Angular](https://github.com/vasekva/vasekva/raw/main/icons/angularjs.png)
 ![.NET](https://github.com/vasekva/vasekva/raw/main/icons/dot_net.png)
