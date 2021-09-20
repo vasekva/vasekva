@@ -6,12 +6,12 @@
 ## Languages and Tools
 ### Tools:
 
-![Vim](https://github.com/vasekva/vasekva/raw/main/icons/vim.png)
-![Bash](https://github.com/vasekva/vasekva/raw/main/icons/gnu-bash.png)
-![Vstudio](https://github.com/vasekva/vasekva/raw/main/icons/Vstudio.png)
-![Intellij](https://github.com/vasekva/vasekva/raw/main/icons/intellij.png)
 ![Linux](https://github.com/vasekva/vasekva/raw/main/icons/linux.png)
-![MacOS](https://github.com/vasekva/vasekva/raw/main/icons/macos.png)
+![MacOS](https://github.com/vasekva/vasekva/raw/main/icons/iMac.png)
+![Vim](https://github.com/vasekva/vasekva/raw/main/icons/vim.png)
+![Bash](https://github.com/vasekva/vasekva/raw/main/icons/iTerm.png)
+![Vstudio](https://github.com/vasekva/vasekva/raw/main/icons/VS_icon.png)
+![Intellij](https://github.com/vasekva/vasekva/raw/main/icons/intellij-icon.png)
 
 ### Learned the basics:
 
