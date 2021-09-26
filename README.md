@@ -31,8 +31,9 @@
 ### Studying now:
 
 ![JS](https://github.com/vasekva/vasekva/raw/main/icons/javascript.png)
-![Angular](https://github.com/vasekva/vasekva/raw/main/icons/angularjs.png)
+![Angular](https://github.com/vasekva/vasekva/raw/main/icons/angular.png)
 ![.NET](https://github.com/vasekva/vasekva/raw/main/icons/dot_net.png)
+![.NET](https://github.com/vasekva/vasekva/raw/main/icons/Sql-icon.png)
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasekva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
