@@ -29,11 +29,14 @@
 ![Hibernate](https://img.shields.io/badge/-Hibernate-996633?style=for-the-badge&logo=hibernate)
 
 ### Studying now:
-![CPP](https://github.com/vasekva/vasekva/raw/main/icons/cpp.png)
-![.NET](https://github.com/vasekva/vasekva/raw/main/icons/dot_net.png)
-![JS](https://github.com/vasekva/vasekva/raw/main/icons/javascript.png)
-![Angular](https://github.com/vasekva/vasekva/raw/main/icons/angular.png)
-![SQL](https://github.com/vasekva/vasekva/raw/main/icons/Sql-icon.png)
+![CPP](https://github.com/vasekva/vasekva/raw/main/icons/c-plus.png)
+![C_Sharp](https://github.com/vasekva/vasekva/raw/main/icons/c-sharp.png)
+![Unity](https://github.com/vasekva/vasekva/raw/main/icons/unity.png)
+
+[//]: # (![.NET]&#40;https://github.com/vasekva/vasekva/raw/main/icons/dot_net.png&#41;)
+[//]: # (![JS]&#40;https://github.com/vasekva/vasekva/raw/main/icons/javascript.png&#41;)
+[//]: # (![Angular]&#40;https://github.com/vasekva/vasekva/raw/main/icons/angular.png&#41;)
+[//]: # (![SQL]&#40;https://github.com/vasekva/vasekva/raw/main/icons/Sql-icon.png&#41;)
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasekva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
