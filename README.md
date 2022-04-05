@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## 42 Ecole Profile
-[![jaeskim's 42 stats](https://badge42.vercel.app/api/v2/cl1lxd4p9003809mnf0o39men/stats?cursusId=21&coalitionId=104)
+[!jaeskim's 42 stats](https://badge42.vercel.app/api/v2/cl1lxd4p9003809mnf0o39men/stats?cursusId=21&coalitionId=104)
 
 ## Languages and Tools
 ### Tools:
