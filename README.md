@@ -30,8 +30,8 @@
 
 ### Studying now:
 ![CPP](https://github.com/vasekva/vasekva/raw/main/icons/c-plus.png)
-![C_Sharp](https://github.com/vasekva/vasekva/raw/main/icons/c-sharp.png)
-![Unity](https://github.com/vasekva/vasekva/raw/main/icons/unity.png)
+<!-- ![C_Sharp](https://github.com/vasekva/vasekva/raw/main/icons/c-sharp.png) -->
+<!-- ![Unity](https://github.com/vasekva/vasekva/raw/main/icons/unity.png) -->
 
 [//]: # (![.NET]&#40;https://github.com/vasekva/vasekva/raw/main/icons/dot_net.png&#41;)
 [//]: # (![JS]&#40;https://github.com/vasekva/vasekva/raw/main/icons/javascript.png&#41;)
