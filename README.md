@@ -27,7 +27,6 @@
 
 
 ![Spring](https://img.shields.io/badge/-Spring-CCCCCF?style=for-the-badge&logo=spring)
-![Hibernate](https://img.shields.io/badge/-Hibernate-996633?style=for-the-badge&logo=hibernate)
 
 ### Studying now:
 ![CPP](https://github.com/vasekva/vasekva/raw/main/icons/c-plus.png)
