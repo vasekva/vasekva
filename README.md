@@ -11,7 +11,7 @@
 ![Vim](https://github.com/vasekva/vasekva/raw/main/icons/vim.png)
 ![Bash](https://github.com/vasekva/vasekva/raw/main/icons/iTerm.png)
 ![Vstudio](https://github.com/vasekva/vasekva/raw/main/icons/VS_icon.png)
-![Intellij](https://github.com/vasekva/vasekva/raw/main/icons/intellij-icon.png)
+<!-- ![Intellij](https://github.com/vasekva/vasekva/raw/main/icons/intellij-icon.png) -->
 ![CLion](https://github.com/vasekva/vasekva/raw/main/icons/clion-icon.png)
 
 ### Learned the basics:
