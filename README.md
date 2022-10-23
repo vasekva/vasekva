@@ -38,13 +38,6 @@
 [//]: # (![Angular]&#40;https://github.com/vasekva/vasekva/raw/main/icons/angular.png&#41;)
 [//]: # (![SQL]&#40;https://github.com/vasekva/vasekva/raw/main/icons/Sql-icon.png&#41;)
 
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasekva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[comment]: <> ([![Anurag's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=vasekva&show_icons=true&theme=tokyonight&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
-## Github stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=vasekva&theme=onedark)](https://github.com/ryo-ma/github-profile-vasekva)
-
 ## Follow me
 
 ---
